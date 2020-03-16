@@ -13,8 +13,8 @@ namespace Demo_Enumerations
     // Description: Demonstration of Enumerables
     // Application Type: Console
     // Author: Velis, John
-    // Dated Created: 1/22/2020
-    // Last Modified: 1/25/2020
+    // Dated Created: 3/16/2020
+    // Last Modified: 
     //
     // **************************************************
     public enum Month
